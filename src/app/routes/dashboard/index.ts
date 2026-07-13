@@ -1,0 +1,6 @@
+export { DashboardShell } from './_components/dashboard-shell'
+export { DashboardHomeRedirectRoute } from './dashboard-home-redirect.route'
+export { ClientOverviewRoute } from './client/overview/client-overview.route'
+export { DashboardProfileRoute } from './profile/dashboard-profile.route'
+export { SuperAdminOverviewRoute } from './super-admin/overview/super-admin-overview.route'
+export { SuperAdminUsersRoute } from './super-admin/users/super-admin-users.route'
