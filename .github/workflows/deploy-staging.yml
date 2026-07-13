@@ -43,4 +43,4 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.SSH_PORT }}
           source: dist/*
-          target: /var/www/html/dev/front
+          target: /var/www/stage/frontend
